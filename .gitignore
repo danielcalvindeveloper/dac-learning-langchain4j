@@ -1,0 +1,54 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.*
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Java
+*.class
+
+# Lombok delombok
+delombok/
+
+# Test
+surefire-reports/
+
+# LangChain / IA
+*.embedding
+vector-store/
+chroma-data/
+rag-data/
+
+# Archivos temporales
+tmp/
+temp/
+
+# Eclipse launch configs
+*.launch
